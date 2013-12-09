@@ -1,4 +1,4 @@
-Example for a blog post : [thau.me](bit.ly/18Cr3Jt)
+Example for a blog post : [thau.me](http://bit.ly/18Cr3Jt)
 
 # Run
 
